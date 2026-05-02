@@ -9,7 +9,7 @@
 
 Dive deeper about me:
 
-<a href="https://gamma.app/docs/Abhisek-Padhy-z8m6vt490csgh6f">
+<a href="[https://gamma.app/docs/Abhisek-Padhy-z8m6vt490csgh6f](https://abhisek-padhy-rpwbepx.gamma.site/)">
   <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
